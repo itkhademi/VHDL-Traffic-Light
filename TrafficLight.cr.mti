@@ -1,0 +1,33 @@
+{F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd} {2 {vcom -work work -2002 -explicit -vopt {F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Loading entity TrafficLight
+-- Compiling entity TrafficLight_testbench
+-- Compiling architecture behavior of TrafficLight_testbench
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(40): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(43): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(46): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(58): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(61): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight_testbench.vhd(64): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight.vhd} {1 {vcom -work work -2002 -explicit -vopt {F:/jozve darsi/VHDL/Traffic light/TrafficLight/TrafficLight.vhd}
+Model Technology ModelSim SE vcom 10.1c Compiler 2012.07 Jul 27 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity TrafficLight
+-- Compiling architecture behav of TrafficLight
+
+} {} {}}
